@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Eli Felipe 👨‍💻
 
 Sou um aprendiz em desenvolvimento de software e estou estudando Java, Kotlin e JS. ainda não entrei
-no mercado de TI, e por isso estou a cada dia estudando para quando receber uma oportunidade poder oferecer o melhor.
+no mercado de TI, e por isso estou a cada dia estudando para quando receber uma oportunidade, poder oferecer o melhor.
 Sou apaixonado por tecnologias e adoro aprender coisas novas.
 
 #### 🔭 Atualmente estou em busca de novas oportunidades.
