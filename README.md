@@ -1,16 +1,11 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Eli Felipe 👨‍💻
 
-Sou um estudante em engenharia de software e estou estudando Java, ainda não entrei no mercado, e por isso estou a cada dia me aprimorando para quando receber uma oportunidade, poder oferecer o melhor. Sou apaixonado por tecnologias e adoro aprender coisas novas.
-
-Aonde eu estudo para desenvolver meus projetos ?
-
 Unicesumar 🧑‍🎓 - materias da faculdade sempre me tras a base de cada processo no desenvolvimentode software.
 
 Digitalinnovationone 🚀 - bootcamps aprendendo varias tecnologias, implementando projetos praticos, simulando o mercado de trabalho.
 
 Udemy 💜 C# - Professor Nelio Alves || Java - Cod3r Cursos
-
 
 #### 🔭 Atualmente estou em busca de novas oportunidades.
 
