@@ -1,14 +1,6 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Eli Felipe 👨‍💻
 
-Unicesumar 🧑‍🎓 - materias da faculdade sempre me tras a base de cada processo no desenvolvimentode software.
-
-Digitalinnovationone 🚀 - bootcamps aprendendo varias tecnologias, implementando projetos praticos, simulando o mercado de trabalho.
-
-Udemy 💜 C# - Professor Nelio Alves || Java - Cod3r 
-
-Alura - Me formando em desenvolvimento Mobile na alura
-
 #### 🔭 Atualmente estou em busca de novas oportunidades.
 
 ### Languages
